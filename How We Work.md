@@ -1,0 +1,37 @@
+# Our Tech Stack and How We Work
+
+[`ruby-on-rails`](https://github.com/topics/ruby-on-rails) [`rails`](https://github.com/topics/rails) [`apache`](https://github.com/topics/apache) [`nginx`](https://github.com/topics/nginx) [`mysql`](https://github.com/topics/mysql) [`redis`](https://github.com/topics/redis) [`reactjs`](https://github.com/topics/reactjs) [`jquery`](https://github.com/topics/jquery) [`git`](https://github.com/topics/github) [`html5`](https://github.com/topics/html5) [`css3`](https://github.com/topics/css3) [`javascript`](https://github.com/topics/javascript) [`sass`](https://github.com/topics/sass) [`haml`](https://github.com/topics/haml) [`android`](https://github.com/topics/android) [`ios`](https://github.com/topics/ios) [`xml`](https://github.com/topics/xml) [`json`](https://github.com/topics/json) [`automated-tests`](https://github.com/topics/automated-tests) [`elasticsearch`](https://github.com/topics/elasticsearch) [`ruby`](https://github.com/topics/ruby) [`go`](https://github.com/topics/go) [`continious-integration`](https://github.com/topics/continuous-integration) [`python`](https://github.com/topics/python) [`rspec`](https://github.com/topics/rspec) [`tdd`](https://github.com/topics/tdd) [`microservices`](https://github.com/topics/microservices) [`typescript`](https://github.com/topics/typecript)
+
+**High Traffic / Load**
+
+As the biggest marketplace for special items, Catawiki operates in a huge market which brings a lot of unique challenges and opportunities. Having more than 14 million monthly unique visitors, Catawiki’s engineering team takes the stability and the scalability of our systems and applications very seriously. To sustain Catawiki’s growth, we strive to build scalable systems that will perform great under load by carefully choosing the technologies for the problem at hand, what algorithms and data structures our programs use, and by always estimating and benchmarking our system’s performance.
+
+**Microservice Architecture** (35 different microservices, Mainly Ruby and 3 in Go)
+
+Our engineering team is spread over many product teams that focus on specific domains (think Search, Localisation, Bidding etc). To enable our business to grow, experiment and innovate the product, we use a microservices architecture that has shared ownership from our entire engineering team. Having a plethora of microservices, each of them encapsulating a part of our product domain, allows our engineering team to quickly iterate on new features, scale each microservice as a separate entity in the system, measure and monitor its performance, and when needed, effectively isolate, identify and fix production issues.
+
+**Infrastructure as Code**
+
+By maintaining our infrastructure as code we have the ability to quickly review, provision and scale solutions while maintaining a small, flexible and effective infrastructure team. The Virtual Machine (VMs) provisioning is automated and reproducible between production, staging and development environments.
+
+**Monitoring and Alerting**
+
+ “If you can’t measure it, you can’t improve it.”. We rely on tens of thousands of collected metrics from the whole stack (browsers, mobile devices, load balancers, web servers, application runtimes, databases, OS’s, networks) to quickly identify and resolve operational issues and improve the efficiency of the platform and product. We collect and monitor both business and technical metrics in order to make informed decisions on which areas to concentrate our efforts. Those metrics are readily accessible by the whole organization over dashboards that provide constant information feeds to our Sales, Marketing, Customer Support, Product and Engineering teams.
+
+On top of our monitoring infrastructure there is an alerting system that notifies the respective teams for any operational issues (such as elevated error rates, reduced availability or increased latency) within a minute over a plethora of channels depending on severity. The alerts help us identify and resolve problems in a timely manner, reducing the potential negative impact on our customers.
+
+**Code Reviews**
+
+Code reviews are one of the most helpful tools we have in our development process. We have automatic tooling that takes care of style issues, formatting, and other minor tasks, but when we're shipping a new feature we'll usually have at least one other person going through the changelog. This helps us spot issues early, it lets team members understand what everyone else is working on and it allows us to constantly improve by learning how our peers approach and solve problems. 
+
+**AB Testing**
+
+A/B testing, sometimes called split testing, is comparing two versions of a web page to see which one performs better. We use an in-house built gem to split our users into two (or more) groups to see which version of the website works better.
+By identifying points of interest we defined and implemented tracking for a set of goals we find important. Goals are usually focused on business value or drop off points for our users e.g: “Seller registrations” or “Lots paid within 24 hours of winning”. Each of our product teams has a set of goals they are improving.  
+
+Before starting a test, we decide what we are testing, what is the expected outcome, and actions we will take if the test has a negative, neutral or positive conversion. Our AB test framework also serves as a feature toggle. We can easily turn it on/off for testing how certain features behave in production. This is especially useful for moving part of a functionality to a new microservice.
+As we have millions of visitors, we find the AB testing to be a powerful tool that in helping teams evaluate their ideas and iterate on them while knowing the whole time exactly what our users want.
+
+**We group teams around domains** 
+
+Catawiki's development team contributes towards the versatility, stability, and maintainability of the Catawiki platform by organising itself into teams, each responsible for a specific domain. For example, there are teams responsible for the “Seller experience”, “Search”, “Localisation” and “Recommendations” ...and many more. Our development team stays flexible by allowing teams to switch focus and concentrate on different domains as and when the business need arises.
