@@ -67,14 +67,14 @@ The first 2 interviews will each focus on 1 particular case to solve that is rel
 In terms of preparation, we would advise on bringing your own laptop with (sometimes it's more comfortable to code in your own environment when needed) and taking a good look / having a play with the Catawiki website and app. This is helpful as we try and base our questions and scenarios around real life problems we’re trying to solve at Catawiki.
 
 
-**6. Decision 👩‍⚖️**
+**5. Decision 👩‍⚖️**
 
 After the final interview, all interviewers will sit together to discuss the feedback and come to a mutual decision. This will be communicated to you within a few days of the final interview. In the event we decide not to progress, the recruiter will give you a call to discuss the feedback in detail.
 
 If we decide that you are the perfect match for us, we’ll call you to tell you the news and make you the offer! If you accept, you’ll begin the relocation and / or onboarding process. 
 
 
-**7. Onboarding 👋**
+**6. Onboarding 👋**
 
 Yes! You made it and are now a proud Catawikian! Awesome. The final step is to start life at Catawiki HQ: There will be an official ‘onboarding’ day with other new joiners (across different departments) as well as a full technical onboarding and orientation so you can get up to speed quickly. In your first week you will have an appointment with HR for the last pieces of paperwork including applying to the 30% rule (if you are eligible). 
 
