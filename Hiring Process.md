@@ -23,10 +23,10 @@ After you hit submit, you'll receive an email confirmation and your application 
 
 The second stage of the process is a 20-30 minute Skype call with one of our Technical recruiters. The goal of this call is to get to know each other and see if there could be a match both ways. We’ll probably be asking you questions relating to:
 
-**- Experience:** What have you done before, what are you currently doing, what tech-stack are you most familiar with?
-**- Motivation:** What does a perfect job look like to you? Why could Catawiki be a good next step?
-**- You!:** What fun projects are you working on in your free time? Would you be relocating to Catawiki with your family, or even a pet? Would you be interested in joining Catawiki’s Skydiving team or Board Games club?
-**- The practical stuff:** Salary expectations, relocation possibilities, availability etc.
+- **Experience:** What have you done before, what are you currently doing, what tech-stack are you most familiar with?
+- **Motivation:** What does a perfect job look like to you? Why could Catawiki be a good next step?
+- **You!:** What fun projects are you working on in your free time? Would you be relocating to Catawiki with your family, or even a pet? Would you be interested in joining Catawiki’s Skydiving team or Board Games club?
+- **The practical stuff:** Salary expectations, relocation possibilities, availability etc.
 
 We’ll explain some more to you about our history, business model and ambitions (it’s actually pretty cool how we’ve scaled the business from our 2 founders in a small Dutch city to 600 Catawikians around the world!). We’ll also talk you through how our teams are structured, where you would fit in and what to expect next in the interview process. There will also be plenty of time for you to ask questions as we want you to begin getting a feeling for if this position, and Catawiki, is right for you.
 
@@ -45,9 +45,9 @@ This interview is carried out by video call (usually on Skype) and will be with 
 
 What we’re looking for in a candidate at this stage:
 
-**Fit:** Do you fit the Catawiki way of developing software, and would you enjoy it?  
-**Technical Skills:** It’s hard to tell everything in this call, but we hope to get a good idea about your level of knowledge on different topics to see what areas you could add value, and what areas we could help you to grow. 
-**Motivation:** Are you excited to develop product and have an impact on users? 
+- **Fit:** Do you fit the Catawiki way of developing software, and would you enjoy it?  
+- **Technical Skills:** It’s hard to tell everything in this call, but we hope to get a good idea about your level of knowledge on different topics to see what areas you could add value, and what areas we could help you to grow. 
+- **Motivation:** Are you excited to develop product and have an impact on users? 
 
 **Top Developer tip**
 Preparing a few questions ahead of time is a great way to make sure you walk away with all of the information you need while showing that you have an interest in Catawiki and the role. 
@@ -82,12 +82,3 @@ If we decide that you are the perfect match for us, we’ll call you to tell you
 Yes! You made it and are now a proud Catawikian! Awesome. The final step is to start life at Catawiki. There will be an official ‘onboarding’ day with other new joiners (across different departments) as well as a full technical onboarding and orientation so you can get up to speed quickly. In your first week, you will have an appointment with HR for the last pieces of paperwork including applying to the 30% rule (if you are eligible).
 
 We're a friendly and international bunch so there's a good chance that lots of the people you speak to here have been through a similar process and can share their top tips and tricks for getting settled in, whether it’s the best neighborhoods to live in or the best pizza restaurant to order takeaway from! No matter what happens, Catawiki is here to support you along every step your journey.
-
-
-
-
-
-
-
-
-
