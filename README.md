@@ -41,7 +41,7 @@ Each team comprised of a mixture of Front-End, Back-End and Mobile Developers, t
 
 🇳🇱🇧🇷🇫🇷🇪🇦🇦🇲🇲🇰🇬🇷🇧🇪🇬🇧🇭🇷🇷🇴🇧🇾  
 **International Teams**  
-🇩🇪🇭🇺🇮🇷🇺🇦🇷🇺🇵🇱🇵🇹🇮🇹🇪🇬🇨🇴🇨🇦  
+🇩🇪🇭🇺🇮🇷🇺🇦🇷🇺🇵🇱🇵🇹🇮🇹🇪🇬🇨🇴🇨🇦🇬🇪  
 
 
 With over 40 different nationalities at Catawiki, our diverse and multi-cultural environment allows everyone to learn from new ideas and perspectives while having some fun along the way.
