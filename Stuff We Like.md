@@ -18,3 +18,5 @@
 - Query Understanding by Daniel Tunkelang - https://queryunderstanding.com/
 - Netflix Tech Blog - https://medium.com/netflix-techblog
 - Changing Bits - http://blog.mikemccandless.com/
+- The Changelog - https://changelog.com/
+
