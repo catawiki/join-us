@@ -4,7 +4,7 @@ You’re thinking of becoming a Catawikian? Nice! We put time and effort into hi
 
 Our goal is to see if there will be a match in terms of your technical and communication skills as well as a cultural fit. We’re not looking for clones of our existing Engineering team, but more people who want to help take themselves and Catawiki to the next level, while having some fun along the way! Equally, we have set up the process to give you an insight into what it's like to work here, a clear view of what problems you’d be working on, and an idea about whether or not you’d be excited about collaborating with the Catawiki team.
 
-Here’s what you can expect when applying for one of our [open positions in Tech](https://www.catawiki.com/jobs/all#filter-division:development).
+Here’s what you can expect when applying for one of our [open positions in Tech](https://www.catawiki.com/jobs/all#departments:development).
 
 **1. Applying**  📝
 
