@@ -1,5 +1,6 @@
 # Stuff We Like to Read
 
+- dev.to/catawiki - https://dev.to/catawiki
 - Coding Horror - https://blog.codinghorror.com/
 - Dan Luu - https://danluu.com
 - Dave Cheney - https://dave.cheney.net
@@ -19,4 +20,4 @@
 - Netflix Tech Blog - https://medium.com/netflix-techblog
 - Changing Bits - http://blog.mikemccandless.com/
 - The Changelog - https://changelog.com/
-- dev.to/catawiki - https://dev.to/catawiki
+
