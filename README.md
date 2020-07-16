@@ -46,4 +46,9 @@ Each team comprised of a mixture of Front-End, Back-End and Mobile Developers, t
 
 With over 50 different nationalities at Catawiki, our diverse and multi-cultural environment allows everyone to learn from new ideas and perspectives while having some fun along the way.
 
-Can't see your flag here? Join us and add it yourself!
+Can't see your flag here? [Join us](https://www.catawiki.com/jobs) and add it yourself!
+
+
+### Diversity Statement
+
+Catawiki is committed to building a diverse company and diverse teams. That includes everyone, no matter your age, ability, gender, race, religion or sexual orientation. We welcome applications from underserved and underrepresented communities. If you’ve got a story to tell, come and [join us](https://www.catawiki.com/jobs).
