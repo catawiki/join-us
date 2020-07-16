@@ -7,5 +7,9 @@ As Europe’s fastest growing online auction platform, our mission is to make sp
 Born and raised in The Netherlands, we started in 2008 as a platform where collectors could manage their collections online. Yet, times change, ideas evolve, and in 2011 we hosted our first online auction and we haven’t looked back since! In 2015 we received our Series C funding round (€75 Million) and since then we’ve grown to 600 proud Catawikians working across several international offices.
 
 
+# Our culture
+Like the objects we curate, Catawiki is truly special. We work together to create an environment where passionate people make an impact. We combine art and science like no one else. We continuously strive for an inclusive company culture in which we attract, develop and retain high-performing, productive and diverse talents. Catawiki is committed to fostering this excellence and ensuring this potential is maximised, recognised and incentivised.
+
+With over 50 different nationalities, Catawiki offers a diverse and multicultural environment that allows everyone to learn from each other and embrace new ideas and perspectives. We thrive in our diversity and we use this diversity to build a truly global platform of special objects for users across the world.
 
  
