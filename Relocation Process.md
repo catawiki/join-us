@@ -33,3 +33,9 @@ There will be an official ‘onboarding’ day with other new joiners (across di
 We're a friendly and international bunch so there's a good chance that lots of the people you speak to here have been through a similar process and can share their top tips and tricks for getting settled in, whether it’s the best neighborhoods to live in or the best pizza restaurant to order take away from!
 
 No matter what happens, Catawiki is here to support you along every step of your journey.
+
+**9. Covid-19 Update**
+
+As we navigate through this crisis together, we want to reassure you that we are committed to keeping our platform functioning and all of our employees and candidates safe. That’s why the entire recruitment process is taking place remotely, using phone and video calls. All of our employees are now working remotely, and because the business continues to thrive, we are still actively hiring. Relocation is likely to be a little slower than usual, but we are still able to help with this journey and will do our best to ensure a smooth transition. You can Click [here](https://cw-app-marketing.s3.amazonaws.com/assets/marketing/marketing/corona_update/covid-19_update_catawiki_en.pdf) to read the Coronavirus company update from our CEO, Ravi Vora.
+
+For successful applicants who end up being hired, we always ensure a safe, engaging and (for the time-being) remote oboarding experience and take care to make sure all of your equipment will be sent to you by courier so you are ready for your first day.
