@@ -35,11 +35,11 @@ We’ll explain some more to you about our history, business model and ambitions
 
 **3. Technical Interview 💻**
 
-This interview is carried out by video call (usually on Skype) and will be with 2 of our developers. The purpose of the interview is to touch lightly on a few programming ideas, some language specific questions, communication and overall fit. We aim to make the interview a collaborative discussion rather than an interrogation! The following topics are usually covered:
+This interview is carried out by video call (usually on Skype or Google Meet) and will be with 2 of our developers. The purpose of the interview is to touch lightly on a few programming ideas, some language specific questions, communication and overall fit. We aim to make the interview a collaborative discussion rather than an interrogation! The following topics are usually covered:
 
 - **Breaking the ice:** What are you currently doing and what have you done in the past; kind of like a condensed version of the recruiter screening call. 
 - **Technical questions:** Here we cover basic knowledge and explore what areas of technology you’re most familiar with (e.g microservices, API development, databases, frameworks, system design, A/B testing etc). These will vary depending on what role you are interviewing for.
-- **Problem solving questions** that measure your thinking process and coding skills (usually done via a shared board such as http://collabedit.com/)
+- **Problem solving questions** that measure your thinking process and coding skills (usually done via a shared board such as https://coderpad.io//)
 - **Business acumen questions:** We want to quickly touch on your understanding of Catawiki’s business and your general economic and business know-how.
 - **A chance, of course, for you to ask questions** 
 
