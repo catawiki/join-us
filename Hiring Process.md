@@ -89,3 +89,9 @@ If we decide that you are the perfect match for us, we’ll call you to tell you
 Yes! You made it and are now a proud Catawikian! Awesome. The final step is to start life at Catawiki. There will be an official ‘onboarding’ day with other new joiners (across different departments) as well as a full technical onboarding and orientation so you can get up to speed quickly. In your first week, you will have an appointment with HR for the last pieces of paperwork including applying to the 30% rule (if you are eligible).
 
 We're a friendly and international bunch so there's a good chance that lots of the people you speak to here have been through a similar process and can share their top tips and tricks for getting settled in, whether it’s the best neighborhoods to live in or the best pizza restaurant to order takeaway from! No matter what happens, Catawiki is here to support you along every step your journey.
+
+
+
+**Diversity Statement**
+
+Catawiki is committed to building a diverse company and diverse teams. That includes everyone, no matter your age, ability, gender, race, religion or sexual orientation. We welcome applications from underserved and underrepresented communities. If you’ve got a story to tell, come and join us.
