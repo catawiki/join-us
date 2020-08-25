@@ -20,5 +20,3 @@
 - Netflix Tech Blog - https://medium.com/netflix-techblog
 - Changing Bits - http://blog.mikemccandless.com/
 - The Changelog - https://changelog.com/
-- dev.to/catawiki - https://dev.to/catawiki
-
