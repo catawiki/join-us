@@ -1,5 +1,6 @@
 # Stuff We Like to Read
 
+## Blogs
 - dev.to/catawiki - https://dev.to/catawiki
 - Coding Horror - https://blog.codinghorror.com/
 - Dan Luu - https://danluu.com
@@ -20,3 +21,10 @@
 - Netflix Tech Blog - https://medium.com/netflix-techblog
 - Changing Bits - http://blog.mikemccandless.com/
 - The Changelog - https://changelog.com/
+
+## Books
+
+- Refactoring: Improving the Design of Existing Code : https://www.goodreads.com/book/show/43242144-refactoring
+- Domain Driven Design : https://www.goodreads.com/book/show/179133.Domain_Driven_Design
+- Head First Design Patterns : https://www.goodreads.com/book/show/58128.Head_First_Design_Patterns
+- Practical Object-Oriented Design in Ruby : https://www.goodreads.com/book/show/13507787-practical-object-oriented-design-in-ruby
