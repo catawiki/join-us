@@ -1,7 +1,6 @@
 # Stuff We Like to Read
 
 ## Blogs
-- dev.to/catawiki - https://dev.to/catawiki
 - Coding Horror - https://blog.codinghorror.com/
 - Dan Luu - https://danluu.com
 - Dave Cheney - https://dave.cheney.net
@@ -13,7 +12,7 @@
 - Seth Godin's Blog - http://sethgodin.typepad.com
 - Signal v. Noise - https://m.signalvnoise.com
 - Steve Corona's Blog - http://stevecorona.com
-- Ilija Eftimov - https://ieftimov.com/ (A real Catawikian!)
+- Ilija Eftimov - https://ieftimov.com/
 - Vincent Boisard - https://bytes-and-bites.com/ (Another Catawikian!)
 - OpenSource Connections - https://opensourceconnections.com/blog/
 - Elastic - https://www.elastic.co/blog
