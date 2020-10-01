@@ -13,7 +13,7 @@
 - Signal v. Noise - https://m.signalvnoise.com
 - Steve Corona's Blog - http://stevecorona.com
 - Ilija Eftimov - https://ieftimov.com/
-- Vincent Boisard - https://bytes-and-bites.com/ (Another Catawikian!)
+- Vincent Boisard - https://bytes-and-bites.com/ (A real Catawikian!)
 - OpenSource Connections - https://opensourceconnections.com/blog/
 - Elastic - https://www.elastic.co/blog
 - Query Understanding by Daniel Tunkelang - https://queryunderstanding.com/
