@@ -1,5 +1,5 @@
  
-[![Catawiki logo](catawiki_logo.png)](https://www.catawiki.com)
+[![Catawiki logo](catawiki.png)](https://www.catawiki.com)
 
 
 # Become a Catawikian!
