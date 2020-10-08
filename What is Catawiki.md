@@ -1,6 +1,6 @@
 # What is Catawiki?
 
-[A piece of the moon](https://www.catawiki.nl/l/16212865-fragment-of-the-moon-in-a-medallion-12-15-g), [a complete dinosaur skeleton](https://auction.catawiki.com/l/6325173-complete-skeleton-of-a-woolly-mammoth-mammuthus-primigenius-5-5-metres-long-3-2-metres-high), [the Pope's hat](https://auction.catawiki.com/l/5023105-authentic-skullcap-worn-by-pope-francis-21st-century), [the world's smallest book](https://auction.catawiki.com/l/8360709-miniature-books-the-smallest-book-in-the-world-in-7-languages-der-olympische-eid-the-olympic-oath-1968) - at Catawiki, we come across extraordinary objects such as these every day.
+[A piece of the moon](https://www.catawiki.nl/l/16212865-fragment-of-the-moon-in-a-medallion-12-15-g), [a complete dinosaur skeleton](https://www.catawiki.com/l/6325173-complete-skeleton-of-a-woolly-mammoth-mammuthus-primigenius-5-5-metres-long-3-2-metres-high), [the Pope's hat](https://www.catawiki.com/l/5023105-authentic-skullcap-worn-by-pope-francis-21st-century), [the world's smallest book](https://www.catawiki.com/l/8360709-miniature-books-the-smallest-book-in-the-world-in-7-languages-der-olympische-eid-the-olympic-oath-1968) - at Catawiki, we come across extraordinary objects such as these every day.
 
 As Europe’s fastest-growing online auction platform, our mission is to make unique objects available to everyone. In fact, 14 million users are buying and selling on Catawiki every month. This means we are continually growing and always on the lookout for new talent!
 
