@@ -26,7 +26,7 @@ Your first week in the Netherlands is likely to be filled with appointments (Ope
 
 **7. The Final step is to start life at Catawiki HQ!** 🏢 
 
-There will be an official ‘onboarding’ day with other new joiners (across different departments) as well as a full technical onboarding and orientation so you can get up to speed quickly. In your first week you will have an appointment with HR for the last pieces of paperwork including applying to [the 30% rule](https://ind.nl/en/work/Pages/Highly-skilled-migrant.aspx) (if you are eligible). 
+There will be an official ‘onboarding’ day with other new joiners (across different departments) as well as a full technical onboarding and orientation so you can get up to speed quickly. In your first week you will have an appointment with HR for the last pieces of paperwork including applying to [the 30% rule](https://www.iamsterdam.com/en/living/take-care-of-official-matters/highly-skilled-migrants/thirty-percent-ruling) (if you are eligible). 
 
 **8. Ongoing Support** 🍕 
 
