@@ -1,17 +1,16 @@
- 
 [![Catawiki logo](catawiki.png)](https://www.catawiki.com)
-
 
 # Become a Catawikian!
 
-A short guide detailing who we are, what we do, how our hiring process works and why our developers like working here. If you like what you see, then you too can [become a Catawikian!](https://www.catawiki.com/jobs/) 
+A short guide detailing who we are, what we do, how our hiring process works and why our developers like working here. If you like what you see, then you too can [become a Catawikian!](https://www.catawiki.com/jobs/)
 
 ## More
-* [What is Catawiki?](What%20is%20Catawiki.md)
-* [Hiring Process](Hiring%20Process.md)
-* [Relocation Process](Relocation%20Process.md)
-* [How We Work](How%20We%20Work.md)
-* [Stuff We Like](Stuff%20We%20Like.md)
+
+- [What is Catawiki?](What%20is%20Catawiki.md)
+- [Hiring Process](Hiring%20Process.md)
+- [Relocation Process](Relocation%20Process.md)
+- [How We Work](How%20We%20Work.md)
+- [Stuff We Like](Stuff%20We%20Like.md)
 
 ### Why our Developers Love Working Here
 
@@ -37,17 +36,15 @@ As we have millions of visitors, we use our in-house AB testing framework to hel
 
 **👥 Multidisciplinary teams grouped around domains**
 
-Each team comprised of a mixture of Front-End, Back-End and Mobile Developers, together with a Product Owner, UX Designer and a Data Scientist has a steely focus on a particular domain, but our engineers are able to switch between different teams and projects throughout their career at Catawiki. 
+Each team comprised of a mixture of Front-End, Back-End and Mobile Developers, together with a Product Owner, UX Designer and a Data Scientist has a steely focus on a particular domain, but our engineers are able to switch between different teams and projects throughout their career at Catawiki.
 
-🇳🇱🇧🇷🇫🇷🇪🇦🇦🇲🇲🇰🇬🇷🇧🇪🇬🇧🇭🇷🇷🇴🇧🇾🇺🇸  
+🇳🇱🇧🇷🇫🇷🇪🇦🇦🇲🇲🇰🇬🇷🇧🇪🇬🇧🇭🇷🇷🇴🇧🇾🇺🇸🇹🇷  
 **International Teams**  
-🇩🇪🇭🇺🇮🇷🇺🇦🇷🇺🇵🇱🇵🇹🇮🇹🇪🇬🇨🇴🇨🇦🇬🇪🇺🇿  
-
+🇩🇪🇭🇺🇮🇷🇺🇦🇷🇺🇵🇱🇵🇹🇮🇹🇪🇬🇨🇴🇨🇦🇬🇪🇺🇿🇩🇿
 
 With over 50 different nationalities at Catawiki, our diverse and multi-cultural environment allows everyone to learn from new ideas and perspectives while having some fun along the way.
 
 Can't see your flag here? [Join us](https://www.catawiki.com/jobs) and add it yourself!
-
 
 ### Diversity Statement
 
