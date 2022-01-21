@@ -46,6 +46,10 @@ With over 50 different nationalities at Catawiki, our diverse and multi-cultural
 
 Can't see your flag here? [Join us](https://www.catawiki.com/jobs) and add it yourself!
 
+**🤗Sharing is Caring**
+
+Our teams meet on a regular basis to share the things we've learnt, and other things we're interested in. If these sessions don't contain anything commercially sensitive, then we share them to the world [on our Catawiki Engineering YouTube channel](https://www.youtube.com/channel/UCy2HFsDR0cV8gEUR4WlV0yg/videos)
+
 ### Diversity Statement
 
 Catawiki is committed to building a diverse company and diverse teams. That includes everyone, no matter your age, ability, gender, race, religion or sexual orientation. We welcome applications from underserved and underrepresented communities. If you’ve got a story to tell, come and [join us](https://www.catawiki.com/jobs).
