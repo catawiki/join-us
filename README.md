@@ -48,7 +48,7 @@ Can't see your flag here? [Join us](https://www.catawiki.com/jobs) and add it yo
 
 **🤗Sharing is Caring**
 
-Our teams meet on a regular basis to share the things we've learnt, and other things we're interested in. If these sessions don't contain anything commercially sensitive, then we share them to the world [on our Catawiki Engineering YouTube channel](https://www.youtube.com/channel/UCy2HFsDR0cV8gEUR4WlV0yg/videos)
+Our teams meet on a regular basis to share the things we've learnt, and other things we're interested in. If these sessions don't contain anything commercially sensitive, then we share them to the world [on our Catawiki YouTube channel](https://www.youtube.com/playlist?list=PLDsguty5Wf6ptECvdeMDaf8WnLpaw09ki)
 
 ### Diversity Statement
 
