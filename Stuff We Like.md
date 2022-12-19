@@ -1,7 +1,7 @@
 # Stuff We Like to Read
 
 ## Blogs
-- dev.to/catawiki - https://dev.to/catawiki
+- Catawiki Tech blog - https://medium.com/catawiki-engineering
 - Coding Horror - https://blog.codinghorror.com/
 - Dan Luu - https://danluu.com
 - Dave Cheney - https://dave.cheney.net
