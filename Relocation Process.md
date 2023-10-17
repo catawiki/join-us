@@ -8,7 +8,7 @@ WOW! You accepted our offer and are about to become a fully-fledged Catawikianâ€
 
 We work with the specialist international relocation partner [Hillbrook Expatriate Tax Solutions](https://www.hillbrook.nl/). In order to apply for and obtain your working visa (partner/family members also included), there are some forms they will ask you to fill in. They will ask for documentation, including your birth certificate, marriage certificate (both translated by a legal translator and legalized), and work contract. They send this across to [IND](https://ind.nl/en) for approval so you can receive your residence permit once you are here. Catawiki, of course, will cover the cost of the visa application. 
 
-**3. Relocation Pacakge**   
+**3. Relocation Package**   
 
 After the permits have been approved, [Jimble](https://jimble.nl/) the relocation partner, can provide different services according to your needs:
 
