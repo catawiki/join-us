@@ -38,9 +38,9 @@ As we have millions of visitors, we use our in-house AB testing framework to hel
 
 Each team is comprised of a mixture of Front-End, Back-End and Mobile Developers, together with a Product Owner, UX Designer and a Data Scientist who has a steely focus on a particular domain. Still, our engineers can switch between different teams and projects throughout their careers at Catawiki
 
-🇦🇷🇳🇱🇧🇷🇫🇷🇪🇦🇦🇲🇲🇰🇬🇷🇧🇪🇬🇧🇭🇷🇷🇴🇧🇾🇺🇸🇹🇷🇵🇰🇿🇦🇹🇼   
+🇦🇷🇳🇱🇧🇷🇫🇷🇪🇦🇦🇲🇲🇰🇬🇷🇧🇪🇬🇧🇭🇷🇷🇴🇧🇾🇺🇸🇹🇷🇵🇰🇿🇦🇧🇬🇨🇳🇷🇸🇮🇷
 **International Teams**  
-🇩🇪🇭🇺🇮🇷🇺🇦🇷🇺🇵🇱🇵🇹🇮🇹🇪🇬🇨🇴🇨🇦🇬🇪🇺🇿🇩🇿🇮🇳🇳🇬🇨🇷🇱🇰🇦🇿 
+🇩🇪🇭🇺🇮🇷🇺🇦🇷🇺🇵🇱🇵🇹🇮🇹🇪🇬🇨🇴🇨🇦🇬🇪🇺🇿🇩🇿🇮🇳🇳🇬🇨🇷🇱🇰🇦🇿🇹🇼
 
 With over 60 nationalities at Catawiki, our diverse and multicultural environment allows everyone to learn new ideas and perspectives while having some fun.
 
