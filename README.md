@@ -46,7 +46,7 @@ With over 60 nationalities at Catawiki, our diverse and multicultural environmen
 
 Can't see your flag here? [Join us](https://www.catawiki.com/jobs) and add it yourself!
 
-**🤗Sharing is Caring**
+**🤗 Sharing is Caring**
 
 Our teams meet regularly to share what we've learned and other things we're interested in. 
 
